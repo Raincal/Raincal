@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Genshin Card](https://genshin-card.himiku.com/rand/82411667.png)
+![Genshin Card](https://genshin-card.himiku.com/detail/rand/82411667.png)
 
 ![Readme Card](https://github-readme-stats.vercel.app/api?username=Raincal&count_private=true&show_icons=true&include_all_commits=true)
 
