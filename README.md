@@ -1,4 +1,9 @@
 ### Hi there 👋
+![](https://genshin-card.himiku.com/rand/82411667.png)
+
+<img src="https://github-readme-stats.vercel.app/api?username=Raincal&count_private=true&show_icons=true&include_all_commits=true" /> 
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raincal&layout=compact" />
 
 <!--
 **Raincal/Raincal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
